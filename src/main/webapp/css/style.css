@@ -1,0 +1,252 @@
+@charset "ISO-8859-1";
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.logo {
+	margin-top: -30px;
+	width: 200px;
+	height: 30vh;
+	margin-left: 110px;
+	cursor: pointer;
+}
+
+.heading {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	text-transform: uppercase;
+	margin-left: 300px;
+	font-weight: 800;
+	margin-top: -140px;
+	font-size: 65px;
+	color: brown;
+}
+
+.button {
+	font-size: 16px;
+	font-weight: 700;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 30px;
+	border: 1px solid #5e97d1;
+	background-color: rgb(233, 224, 224);
+	color: rgb(19, 99, 203);
+	cursor: pointer;
+}
+
+.button:hover {
+	transition: .2s ease-in-out;
+	transform: scale(1.1);
+}
+
+.addcandidate:hover {
+	transition: .2s ease-in-out;
+	transform: scale(1.1);
+}
+
+.para1 {
+	margin-left: 860px;
+	margin-top: 50px;
+}
+
+.logo2 {
+	margin-top: 20px;
+	width: 450px;
+	height: 60vh;
+	margin-left: 150px;
+}
+
+.text2 {
+	margin-top: -405px;
+	margin-left: 630px;
+	font-size: 70px;
+	font-weight: 900;
+	color: rgb(19, 99, 203);
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text3 {
+	background-color: lightgrey;
+	width: 490px;
+	border: 10px solid green;
+	padding: 40px;
+	margin: 20px;
+	margin-left: 650px;
+	font-size: 25px;
+	letter-spacing: .1em;
+	font-family: cursive;
+}
+
+
+.form {
+	background-color: white;
+	width: 410px;
+	border: 2px solid rgb(3, 3, 3);
+	padding: 8px 20px;
+	margin: auto;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+.para2 {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+	margin-left: 300px;
+	
+}
+
+
+
+
+.margin {
+	margin-left: 300px;
+	margin-bottom: 10px;
+}
+
+
+.heading3 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 15px;
+	margin-left: 600px;
+}
+
+.voterlogin {
+	background-color: white;
+	width: 400px;
+	border: 2px solid rgb(3, 3, 3);
+	padding: 12px 20px;
+	margin: auto;
+	margin-left: 470px;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+.margin2 {
+	margin-left: 300px;
+	margin-bottom: 10px;
+}
+
+.margin3 {
+	margin-left: 200px;
+	margin-bottom: -100px;
+}
+.para3 {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+}
+
+.heading4 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 17px;
+	margin-left: 550px;
+}
+
+.heading5 {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 17px;
+	margin-left: 550px;
+}
+
+.addcandidate {
+	font-size: 16px;
+	font-weight: 700;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	border-radius: 30px;
+	border: 1px solid #5e97d1;
+	background-color: rgb(233, 224, 224);
+	color: rgb(19, 99, 203);
+}
+
+.para4 {
+	margin-left: 1000px;
+}
+
+  .table{
+    font-family: arial, sans-serif;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+    background-color:white;
+    border-collapse: collapse;
+   
+  }
+  td,th{
+    
+  border: 0.8px solid #111111;
+  text-align: left;
+  padding: 2px;
+  }
+  .para5{
+    margin-left: 1200px;
+  }
+ .para6{
+    margin-left: 1020px;
+    
+  }
+
+  img {
+    width: 80px;
+    height: 60px;
+  }
+  .error{
+    color: red;
+    margin-left: 330px;
+    margin-top: -120px;
+    font-family:  Tahoma, Verdana, Geneva, sans-serif;
+    
+    
+  }
+
+
+.voterdetails{
+	background-color: white;
+	width: 760px;
+	border: 2px solid rgb(3, 3, 3);
+	padding: 12px 20px;
+	margin: auto;
+	font-size: 25px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif
+}
+
+
+.para7 {
+	font-size: 14px;
+	font-weight: bold;
+	padding: 12px 20px;
+	text-transform: uppercase;
+	font-family: 'Poppins', sans-serif;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+	margin-left: 300px;
+
+	
+}
+
+
+
